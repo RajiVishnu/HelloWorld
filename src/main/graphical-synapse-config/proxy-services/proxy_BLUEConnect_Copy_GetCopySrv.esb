@@ -11,7 +11,7 @@
       <container>
         <sequenceAndEndpointContainer>
           <mediatorFlow>
-            <children xsi:type="esb:PayloadFactoryMediator" description="PF_SetResponseStructure" payload="&lt;inline>test&lt;/inline>">
+            <children xsi:type="esb:PayloadFactoryMediator" description="PF_SetResponseStructure" payload="&lt;inline>teshgt&lt;/inline>">
               <payloadKey prettyName="Sequence Key" keyName="Sequence Key" keyValue="/default/key" filters="ACED0005737200116A6176612E7574696C2E486173684D61700507DAC1C31660D103000246000A6C6F6164466163746F724900097468726573686F6C6478703F400000000000107708000000100000000078"/>
               <inputConnector incomingLinks="//@server/@children.0/@outputConnector/@outgoingLink"/>
               <outputConnector>
